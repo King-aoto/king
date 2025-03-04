@@ -59,8 +59,7 @@ hello，欢迎来到此页面，本站提供希沃系统下载链接🔗及网�
 欢迎使用！您的关注就是我更新的动力哈！
 
 <p align="center">
-Like this elegant theme? You can give it a star or sponsor me!<br>
-I will respect your crucial support and say THANK YOU!
+下面是一些系统的下载链接！
 </p>
 
 <p align="center">
