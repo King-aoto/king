@@ -54,9 +54,7 @@
 
 <br>
 
-Hey, nice to meet you, you found this [Jekyll][jekyll] theme. Here the
-_YAT (Yet Another Theme)_ is a modern responsive theme. It's quite
-clear, clean and neat for writers and posts. **If you are an elegant
+hello，欢迎来到此页面，本站提供希沃系统下载链接🔗及网址，感谢您的大驾光临！. **If you are an elegant
 writer and focus on content, don't miss it.**
 
 <p align="center">
