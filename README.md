@@ -54,8 +54,9 @@
 
 <br>
 
-hello，欢迎来到此页面，本站提供希沃系统下载链接🔗及网址，感谢您的大驾光临！. **If you are an elegant
-writer and focus on content, don't miss it.**
+hello，欢迎来到此页面，本站提供希沃系统下载链接🔗及网址，感谢您的大驾光临！
+
+欢迎使用！您的关注就是我更新的动力哈！
 
 <p align="center">
 Like this elegant theme? You can give it a star or sponsor me!<br>
